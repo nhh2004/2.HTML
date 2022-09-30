@@ -1,0 +1,12 @@
+/*day la file style sheet mo ta dinh duong */
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:blue;
+    font-size: 2em;
+    text-shadow: 5px 3px 5px green;
+}
+footer{
+        font-family:'segoe UI ', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+    
+}
